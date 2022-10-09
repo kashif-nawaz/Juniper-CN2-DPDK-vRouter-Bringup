@@ -31,8 +31,8 @@
   update-grub
   ```
   ### Load DPDK Poll Mode Driver
-  [Ref](https://www.juniper.net/documentation/us/en/software/cn-cloud-native22/cn-cloud-native-feature-guide/cn-cloud-native-network-feature/topics/concept/dpdk-vrouter.html)
-  [Ref](https://doc.dpdk.org/guides/linux_gsg/linux_drivers.html)
+  * [Ref](https://www.juniper.net/documentation/us/en/software/cn-cloud-native22/cn-cloud-native-feature-guide/cn-cloud-native-network-feature/topics/concept/dpdk-vrouter.html)
+  * [Ref](https://doc.dpdk.org/guides/linux_gsg/linux_drivers.html)
   * Juniper CN2 DPDK vRouter supports vfio-pci and uio_pci_generic.
   * NIC available in my setup only supports uio_pci_generic.
   ```
