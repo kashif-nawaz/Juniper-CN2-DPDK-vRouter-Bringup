@@ -43,7 +43,7 @@
   ```
   ### Prepare Deployer File 
   * Get the CN2 manifest archive from Juniper [Ref](https://support.juniper.net/support/downloads/)
-  * Untar the archive and update the deployer file as per your enviornment [Ref][https://www.juniper.net/documentation/us/en/software/cn-cloud-native22/cn-cloud-native-k8s-install-and-lcm/topics/topic-map/cn-cloud-native-k8s-install-single-cluster-multi-net.html]
+  * Untar the archive and update the deployer file as per your enviornment [Ref](https://www.juniper.net/documentation/us/en/software/cn-cloud-native22/cn-cloud-native-k8s-install-and-lcm/topics/topic-map/cn-cloud-native-k8s-install-single-cluster-multi-net.html)
 
   ```
    tar xfv contrail-manifests-k8s-22.3.0.71.tgz
